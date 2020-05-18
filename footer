@@ -1,0 +1,61 @@
+<footer class="footer-area">
+        <div class="container">
+            <div class="row pt-120 pb-80">
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-footer-widget">
+                        <h6>Sobre nós</h6>
+                        <p>
+                            Somos uma equipe de pessoas que visam auxiliar os Pets da forma que pudermos O nosso maior proposito quando vemos animais de rua é logo acolhe-lo e dar a ele uma casa para ser feliz. Nesse sentido, ser um meio para a conquista desse proposito é o que
+                            nos impulssiona para continuar seguindo nossa missão.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-footer-widget">
+                        <h6>Links úteis</h6>
+                        <div class="row">
+                            <ul class="col footer-nav">
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">Adote!</a></li>
+                                <li><a href="#">Doe!</a></li>
+                            </ul>
+
+                            <ul class="col footer-nav">
+                                <li><a href="https://www.facebook.com/4patinhasbrecho/?epa=SEARCH_BOX">Grupo Brechó 4 Patinhas</a></li>
+                                <li><a href="https://www.facebook.com/oscipsempreaseulado/?epa=SEARCH_BOX">Grupo Sempre ao Seu Lado</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4  col-md-6">
+                    <div class="single-footer-widget mail-chimp">
+                        <h6 class="mb-20">Nos contate!</h6>
+                        <ul class="list-contact">
+                            <li class="flex-row d-flex">
+                                <div class="icon">
+                                    <span class="lnr lnr-home"></span>
+                                </div>
+                                <div class="detail">
+                                    <h4>Araras, São Paulo</h4>
+                                    <p>
+                                        Av. Dr. Maximiliano Baruto, 500 - Jardim Universitario, Araras - SP, 13607-339
+                                    </p>
+                                </div>
+                            </li>
+                            <li class="flex-row d-flex">
+                                <div class="icon">
+                                    <span class="lnr lnr-envelope"></span>
+                                </div>
+                                <div class="detail">
+                                    <h4>support@PyxisPet</h4>
+                                    <p>
+                                        Nos envie sua dúvida à qualquer hora
+                                    </p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
